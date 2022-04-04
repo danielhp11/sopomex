@@ -4,6 +4,7 @@ Requerimientos:
   -tener python 3 o superior instalado
   -crear un ambiente virtual con virtualenv
   -iniciando el ambiente virtual copiar las dependencias en el archivo requirements.txt
+  -Tener el servicios de mysql activado
   sopomex
   |
   |--app
